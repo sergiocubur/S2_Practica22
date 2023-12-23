@@ -8,3 +8,6 @@ La visualización de barras muestra el conteo de registros por país, destacando
 Las gráficas de dispersión y barras para datos cuantitativos muestran la relación entre fechas, países y las variables relacionadas con las muertes. Estos gráficos ofrecen información valiosa sobre cómo ciertos eventos pueden haber afectado las tasas de mortalidad en diferentes momentos y países. Asimismo, el análisis cualitativo mediante el diagrama de barras proporciona una visión general del volumen de datos disponibles para cada país, destacando la importancia de considerar la representatividad de la muestra al realizar interpretaciones.
 
 En resumen, este análisis exploratorio de datos brinda una comprensión inicial de la distribución, variabilidad y relaciones en los conjuntos de datos relacionados con la COVID-19. Es crucial continuar con análisis más avanzados y considerar la evolución temporal y las particularidades de cada región para obtener perspectivas más profundas y significativas.
+
+
+https://colab.research.google.com/drive/1rakws4d4FtU6Zfpu-4qQMWZqsnHDj5zM?usp=sharing
